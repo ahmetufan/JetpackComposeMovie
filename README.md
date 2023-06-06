@@ -9,7 +9,7 @@ This application serves as a showcase for modern Android development, crafted wi
 
 # Built With  :hammer_and_wrench:
 
-•	[Kotlin Jetpack Compose](https://developer.android.com/jetpack/compose) - The language used in the Project<br/>
+•	[Kotlin Jetpack Compose](https://developer.android.com/jetpack/compose) - Kotlin Jetpack Compose is a declarative UI framework used to build Android application interfaces.<br/>
 •	[Clean Architecture](https://developer.android.com/topic/architecture) - Clean Architecture is a design approach that enhances the maintainability and testability of software.<br/>
 •	[MVVM Architecture](https://developer.android.com/topic/architecture?gclsrc=aw.ds&gclid=Cj0KCQjwzqSWBhDPARIsAK38LY_eKkftD-Fw99r1XQ_MZl6-jvmqOl4DNXadMjXYG6MpiQP4vY-8gZQaAoPCEALw_wcB) (View - ViewModel - Model)<br/>
 •	[Lifecycle](https://developer.android.com/topic/libraries/architecture/lifecycle) - Used with LiveData in order to attach data to the activity/fragment lifecycle<br/>
@@ -20,7 +20,7 @@ This application serves as a showcase for modern Android development, crafted wi
 •	[Room](https://developer.android.com/training/data-storage/room) - Room is a database library used by Kotlin, based on SQLite, that simplifies asynchronous data operations.<br/>
 •	[Coroutines](https://developer.android.com/kotlin/coroutines?hl=tr) - Coroutines are a language feature in Kotlin that simplify asynchronous programming and lightweight concurrency.<br/>
 •	[Flow](https://developer.android.com/kotlin/flow?hl=tr) - Flow is a part of Kotlin Coroutines that provides an API for representing and processing asynchronous streams of data..<br/>
-•	[Navigation](https://developer.android.com/guide/navigation) Component - handle everything needed for in-app navigation.<br/>
+•	[Navigation Component](https://developer.android.com/jetpack/compose/navigation) - It's a library that simplifies transitions between screens and manages application navigation.<br/>
 •	[Coil](https://coil-kt.github.io/coil/) - A image loading library supported by Kotlin Coroutines for Android<br/>
 •	[Lazy Column](https://developer.android.com/jetpack/compose/lists) - Used to display the dashboard<br/>
 •	[Material](https://github.com/material-components/material-components-android/blob/master/docs/getting-started.md)-Components - Material design components like ripple animation, cardView.<br/>
