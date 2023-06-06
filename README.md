@@ -2,7 +2,7 @@
 This application serves as a showcase for modern Android development, crafted with Jetpack Compose, Clean Architecture, MVVM design pattern, and Kotlin Flow.
 ### Movie application created using up-to-date technologies for Android.
 
-![1](https://github.com/ahmetufan/JetpackComposeMovie/assets/100429928/dca25894-8e88-4177-a2ea-7acb4b4554ff)
+![1](https://github.com/ahmetufan/JetpackComposeMovie/assets/100429928/01fd63df-6ac0-414e-9e61-b79f9f81cbdd)
 ![22](https://user-images.githubusercontent.com/100429928/192610741-3b27f050-7fcc-4799-8386-9334a22a8548.jpeg)
 ![33](https://user-images.githubusercontent.com/100429928/192610738-f646a2a3-255c-40fe-9a49-9dfc3278ab06.jpeg)
 ![44](https://user-images.githubusercontent.com/100429928/192610733-642b882c-a76b-4634-bdef-7a74c226ba80.jpeg)
