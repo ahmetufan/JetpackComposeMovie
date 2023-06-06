@@ -24,3 +24,6 @@ This application serves as a showcase for modern Android development, crafted wi
 •	[Coil](https://coil-kt.github.io/coil/) - A image loading library supported by Kotlin Coroutines for Android<br/>
 •	[Lazy Column](https://developer.android.com/jetpack/compose/lists) - Used to display the dashboard<br/>
 •	[Material](https://github.com/material-components/material-components-android/blob/master/docs/getting-started.md)-Components - Material design components like ripple animation, cardView.<br/>
+
+# License  :page_with_curl:<br/>
+JetPackComposeMovie is available under the MIT  license. See the [LICENSE](https://github.com/ahmetufan/JetpackComposeMovie/blob/main/LICENSE) file for more info.
