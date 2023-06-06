@@ -10,7 +10,7 @@ This application serves as a showcase for modern Android development, crafted wi
 # Built With  :hammer_and_wrench:
 
 •	[Kotlin Jetpack Compose](https://developer.android.com/jetpack/compose) - The language used in the Project<br/>
-•	[Clean Architecture]([https://kotlinlang.org/](https://developer.android.com/topic/architecture)) - It is a software architecture that advocates for the dependencies of our application to be unidirectional and inward.<br/>
+•	[Clean Architecture](https://developer.android.com/topic/architecture) - It is a software architecture that advocates for the dependencies of our application to be unidirectional and inward.<br/>
 •	[MVVM Architecture](https://developer.android.com/topic/architecture?gclsrc=aw.ds&gclid=Cj0KCQjwzqSWBhDPARIsAK38LY_eKkftD-Fw99r1XQ_MZl6-jvmqOl4DNXadMjXYG6MpiQP4vY-8gZQaAoPCEALw_wcB) (View - ViewModel - Model)<br/>
 •	[Lifecycle](https://developer.android.com/topic/libraries/architecture/lifecycle) - Used with LiveData in order to attach data to the activity/fragment lifecycle<br/>
 •	[LiveData](https://developer.android.com/topic/libraries/architecture/livedata) - Used to make data be Lifecycle aware, and helps persist data through the activity Lifecycle<br/>
@@ -19,8 +19,8 @@ This application serves as a showcase for modern Android development, crafted wi
 •	[Retrofit](https://square.github.io/retrofit/) - Used to simplify networking<br/>
 •	[Room](https://developer.android.com/training/data-storage/room) - Room is a database library used by Kotlin, based on SQLite, that simplifies asynchronous data operations.<br/>
 •	[Coroutines](https://developer.android.com/kotlin/coroutines?hl=tr) - It is a model that facilitates easy development and understanding, allowing for writing asynchronous code without blocking or stalling the application.<br/>
-•	[Flow]([https://developer.android.com/topic/libraries/architecture/workmanager?gclid=CjwKCAjwhNWZBhB_EiwAPzlhNhSQlv-zTx0zCdS0K0z9ikmxyky5JaYMQm2rKKvSR3jH0BWXfGpdthoCjDMQAvD_BwE&gclsrc=aw.ds](https://developer.android.com/kotlin/flow?hl=tr)) - A suspending function asynchronously returns a single value, but how can we return multiple asynchronously computed values? This is where Kotlin Flows come in.<br/>
+•	[Flow](https://developer.android.com/kotlin/flow?hl=tr) - A suspending function asynchronously returns a single value, but how can we return multiple asynchronously computed values? This is where Kotlin Flows come in.<br/>
 •	[Navigation](https://developer.android.com/guide/navigation) Component - handle everything needed for in-app navigation.<br/>
-•	[Coil]([https://github.com/bumptech/glide](https://coil-kt.github.io/coil/)) - A image loading library supported by Kotlin Coroutines for Android<br/>
+•	[Coil](https://coil-kt.github.io/coil/) - A image loading library supported by Kotlin Coroutines for Android<br/>
 •	[Lazy Column](https://developer.android.com/jetpack/compose/lists) - Used to display the dashboard<br/>
 •	[Material](https://github.com/material-components/material-components-android/blob/master/docs/getting-started.md)-Components - Material design components like ripple animation, cardView.<br/>
