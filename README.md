@@ -1,15 +1,17 @@
 # JetpackComposeMovie 🎥🍿📱
 This application serves as a showcase for modern Android development, crafted with Jetpack Compose, Clean Architecture, MVVM design pattern, and Kotlin Flow.
-### Movie application created using up-to-date technologies for Android.
+
 
 # Features ✨
-Explore the Upcoming, Popular and Trends Movies ✅
-Get detailed description of the movies. ✅
-Get Related movies. ✅
-Like your favourite movies. ✅
-Search for movies. ✅
-Cache movies data to show when mobile go offline. ✅
+ Movie application created using up-to-date technologies for Android. ✅<br/>
+Explore the Upcoming, Popular and Trends Movies ✅<br/>
+Get detailed description of the movies. ✅<br/>
+Get Related movies. ✅<br/>
+Like your favourite movies. ✅<br/>
+Search for movies. ✅<br/>
+Cache movies data to show when mobile go offline. ✅<br/>
 
+# Screenshots 📷
 ![1](https://github.com/ahmetufan/JetpackComposeMovie/assets/100429928/8866532b-b121-4640-87f9-1a9fb72e3956)
 ![2](https://github.com/ahmetufan/JetpackComposeMovie/assets/100429928/44e60397-8c63-4e35-b01c-e1cd7d68515b)
 ![3](https://github.com/ahmetufan/JetpackComposeMovie/assets/100429928/657b7046-2202-4259-8e6c-e41da4cbc34e)
